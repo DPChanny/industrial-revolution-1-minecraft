@@ -1,1 +1,1 @@
-java -jar -Xmx6G s.jar
+.\jdk\bin\javaw -jar -Xmx6G s.jar
